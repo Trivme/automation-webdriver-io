@@ -1,1 +1,4 @@
 node_modules
+allure-results
+temp
+allure-report
