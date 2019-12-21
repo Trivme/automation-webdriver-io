@@ -1,0 +1,22 @@
+{
+  "name": "automation-webdriverio",
+  "version": "1.0.0",
+  "description": "Test Automation Framework | WebDriver I/O | Node.js | JavaScript | Mocha | Chai | Selenium",
+  "main": "wdio.conf.js",
+  "scripts": {
+    "test": "wdio wdio.conf.js"
+  },
+  "keywords": [
+    "Test",
+    "Automation",
+    "Framework",
+    "WebDriverIO",
+    "Node.js",
+    "JavaScript",
+    "Mocha",
+    "Chai",
+    "Selenium"
+  ],
+  "author": "Arthur Senko",
+  "license": "ISC"
+}
